@@ -1,1 +1,2 @@
-Hello this is master branch from git first commit with push.
+Hi this is second branch from git first commit with push.
+second branch create and push data 
